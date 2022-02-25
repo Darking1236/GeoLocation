@@ -30,6 +30,6 @@ def run():
     if 'ejecuta' in recording:
         hablar('Analizando')
     else:
-        hablar('no te entiendo,perdon')
+        hablar('no te entiendo')
 
 run()
